@@ -1,0 +1,9 @@
+{
+    "name": "LC_DressGirlExtendAudio",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/0Blanck0/LC_DressGirlExtendAudio",
+    "description": "This mod adds more songs for the Dress Girl monster",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
